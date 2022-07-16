@@ -36,6 +36,9 @@ Tak mnie scammer zestresował, że spaliłam pyry i zniszczyłam swój ulubiony 
 Dodatkowo tego jest tyle, że już potrzebuję repozytorium do danych.
 
 ## TODO:
+### analiza sentymentu, ocena sentymentu, zadowolenie na podstawie koemntarzy, analiza wydźwięku, klasyfikacja, uczenie maszynowe, przetwarzanie języka naturalnego.
+- przeanalizować komentarze ze scrapowanych stron, nie brac tylko oceń numerycznych
+- mechanizm oceny sentymentu
 #### plakaty, informacje często są rozwieszane przy skelpach, na tramwajach i w ogóle
 #### zakładką skąd mają moje dane - wyświetlenie potenjalnych sytuacji
 #### połaczyć się z PhoneInfoga
