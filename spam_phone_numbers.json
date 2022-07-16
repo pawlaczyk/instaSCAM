@@ -1,0 +1,22 @@
+{
+  "numbers": {
+    "+48 63 226 31 72": {
+      "id": 1,
+      "dates": ["2022-07-16:10:59"],
+      "picked_up": true,
+      "caller_fake_data": "Mariusz Zieliński",
+      "description": "Sam się rozłącza gdy odbiorca się nie rozłącza",
+      "recall": false,
+      "recall_info": null
+    },
+    "+48 41 203 25 03": {
+      "id": 2,
+      "dates": ["2022-07-16:12:51"],
+      "picked_up": false,
+      "caller_fake_data": null,
+      "description": null,
+      "recall": true,
+      "recall_info": "Komunikat sieci - odbiorca nie jest w tym momencie dostępny."
+    }
+  }
+}
