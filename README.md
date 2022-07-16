@@ -37,6 +37,7 @@ Dodatkowo tego jest tyle, że już potrzebuję repozytorium do danych.
 
 ## TODO:
 #### plakaty, informacje często są rozwieszane przy skelpach, na tramwajach i w ogóle
+#### zakładką skąd mają moje dane - wyświetlenie potenjalnych sytuacji
 #### połaczyć się z PhoneInfoga
 - https://www.youtube.com/watch?v=6CnDdXVTxhU
 #### zakładka "mój scammer" z notatkami własnymi
