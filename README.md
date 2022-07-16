@@ -5,6 +5,7 @@
 ### fajne
 
 https://www.youtube.com/watch?v=zwMUYlgXWWw&list=PL6_F7t0IEITByeiXhGw1AcOhjLv2MGK5j&index=3
+https://www.youtube.com/watch?v=RpwQObHEOjI
 
 ### Jeśli do kogoś też wydzwaniają, to zaparszam do "Issues" albo "Pull requests", nowo powstałe numery często nie są oznaczane jako "spam"
 
