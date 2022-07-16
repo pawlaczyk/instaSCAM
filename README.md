@@ -4,7 +4,8 @@ aplikacja podobna do Instagrama ale ze screenami scamów itp
 # Uwaga na spoofing! 
 # Ważne nikt z policji sam z siebie nie dzwoni w celu "weryfikacji" (sprawdzone na 997)
 # Jeśli numer bankui dzwoni infoliniik to ZAWSZE się rozłaczyć i oddzwonić samemu do nich.
-
+# PRAWDZIWY pracownik (SAMI DZWONIMY) banku będzie chciał zakończyć grzecznie rozmowę (można jeszcze  wbanku ustawić słowo bezpieczeństwa, które pracownik musi podac podcza telefonu)
+# SCAMMER będzie chciał człowieka trzymać na linni (TO SCAMMER DO NAS DZWONI), żeby się ofiara nie rozlączyła i żeby wyciągnać jak najwięcej danych w luźniejszej rozmowie
 
 
 # Linki do stron Policji ze względu na województwa
