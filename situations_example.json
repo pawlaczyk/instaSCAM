@@ -1,0 +1,10 @@
+{
+  "situations": [
+    {
+      "name": "poznanie karty kredytowej, imienia, nazwiska, numeru telefonu",
+      "tags": ["credit_card", "first_name", "last_name", "private_number"],
+      "description": "odebranie paczki w sklepie i zrobienie zakupów",
+      "description_long": "Wystarczy odebrać paczke w sklepie, który jest puntem kuriera np DHL, na przesyłce znajduje się imie, nazwisko, numer odbiorcy, adres punktu. Jeśli przy okazji zrobic się zakupy i zapłaci się karta, to ktoś z boku może zauważyć wygląd karty, gdzie niektóre są charakterystyczne dla banków"
+    }
+  ]
+}
