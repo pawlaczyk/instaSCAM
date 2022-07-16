@@ -35,6 +35,9 @@ aplikacja podobna do Instagrama ale ze screenami scamów itp
 Tak mnie scammer zestresował, że spaliłam pyry i zniszczyłam swój ulubiony garnek. To był naprawdę drogi garnek :<
 Dodatkowo tego jest tyle, że już potrzebuję repozytorium do danych.
 
+### fajne
+https://www.youtube.com/watch?v=zwMUYlgXWWw&list=PL6_F7t0IEITByeiXhGw1AcOhjLv2MGK5j&index=3
+
 ## TODO:
 ### analiza sentymentu, ocena sentymentu, zadowolenie na podstawie koemntarzy, analiza wydźwięku, klasyfikacja, uczenie maszynowe, przetwarzanie języka naturalnego.
 - przeanalizować komentarze ze scrapowanych stron, nie brac tylko oceń numerycznych
