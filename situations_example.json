@@ -5,6 +5,12 @@
       "tags": ["credit_card", "first_name", "last_name", "private_number"],
       "description": "odebranie paczki w sklepie i zrobienie zakupów",
       "description_long": "Wystarczy odebrać paczke w sklepie, który jest puntem kuriera np DHL, na przesyłce znajduje się imie, nazwisko, numer odbiorcy, adres punktu. Jeśli przy okazji zrobic się zakupy i zapłaci się karta, to ktoś z boku może zauważyć wygląd karty, gdzie niektóre są charakterystyczne dla banków"
+    },
+    {
+      "name": "poznanie karty kredytowej i  numeru telefonu",
+      "tags": ["credit_card", "first_name", "last_name", "private_number"],
+      "description": "podanie numeru telefonu w sklepie zamiast karty lojalnościowej i zapłacenie kartą",
+      "description_long": "Osoba przy kasie jest w stanie usłyszeć podawany przez nas numer. Płacenie kartą o charakterystycznym dla danego banku wyglądu zdradza informacje gdzie mamy konto."
     }
   ]
 }
