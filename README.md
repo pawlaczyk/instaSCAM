@@ -4,6 +4,28 @@
 
 # TODO:
 
+### https://youtu.be/SbCcmLqmQSs?t=991
+
+###  Fałszywa tożsamość + nabijanie czasu narzekaniem
+#### żeby scamera naciągnać na rozmowę - Losowe dane żbey podać jakieś dane na szybko scamerowi i brzemić prawdziwie:
+- imie
+- znaczenie imiona, jakaś historia że to po babci, albo coś tam i rozmowa leci
+- losowa dat aurudzenia i info o horoskopach, można zagadać, że się stresujemy bo ten znak zodaku ma dziisaj zły dzień (atakujący może nas uznać za ufny cel)
+- nazwisko
+- imie matki
+- bank , rodzaj konta, lokaty, losowy stan konta
+- nazwisko panienskie matki
+- losowy adres ze zgadzajacym sie zip kodem
+- pogoda w miesce (prawdziwa z kilku żródeł) narzekamy że jest za gorąco zimno umiarkowanie albo że łupie nas w kościach
+- alergie gdy potrzebujemy chwili mówimy, że mam alerge na pyłki, szukam leków (poscrapować alergie i leki)
+- losowa firma w losowym blisko miescie (jeśl będzie chciał zmusić do wypłaty gotówki to poda najbliższe banki)
+- losowe miejsce/stanowsiko pracy, albo ze zdalnie, albo dźwęki w tle że się jest na mieście
+  - mówimy, że stresujący dzień, bo leader, ktoś tam dał nam dodatkowe zadanie
+  - jak stanowsko księgowa to narzekamy na nowy ład
+- losowe imie partnera, np żeby grać na czas a nie możemy być na kompe bo X tam siedzi
+- albo czekamy na X bo mamy jeden samochod (losowy samochód marka, kolor, silnk, pojemnosc) można ponarzeać że bena droga
+- bedzie pytać o ostatnią transakcje - losowa kwota no np zakupy w biedrze, paliwo (grani ena czas szukam paragonu)
+
 ### https://youtu.be/dcwQQyF1KNk?t=1663 Scams call funnel
 
 ### analiza sentymentu, ocena sentymentu, zadowolenie na podstawie koemntarzy, analiza wydźwięku, klasyfikacja, uczenie maszynowe, przetwarzanie języka naturalnego.
