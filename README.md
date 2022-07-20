@@ -6,6 +6,8 @@
 
 ### https://youtu.be/SbCcmLqmQSs?t=991
 
+
+
 ###  Fałszywa tożsamość + nabijanie czasu narzekaniem
 #### żeby scamera naciągnać na rozmowę - Losowe dane żbey podać jakieś dane na szybko scamerowi i brzemić prawdziwie:
 - imie
@@ -13,6 +15,7 @@
 - losowa dat aurudzenia i info o horoskopach, można zagadać, że się stresujemy bo ten znak zodaku ma dziisaj zły dzień (atakujący może nas uznać za ufny cel)
 - nazwisko
 - imie matki
+- miasto rodzinne, miasto aktualne
 - bank , rodzaj konta, lokaty, losowy stan konta
 - nazwisko panienskie matki
 - losowy adres ze zgadzajacym sie zip kodem
@@ -24,9 +27,21 @@
   - jak stanowsko księgowa to narzekamy na nowy ład
 - losowe imie partnera, np żeby grać na czas a nie możemy być na kompe bo X tam siedzi
 - albo czekamy na X bo mamy jeden samochod (losowy samochód marka, kolor, silnk, pojemnosc) można ponarzeać że bena droga
-- bedzie pytać o ostatnią transakcje - losowa kwota no np zakupy w biedrze, paliwo (grani ena czas szukam paragonu)
+- bedzie pytać o ostatnią transakcje - losowa kwota no np zakupy w biedrze,lidlu, rossmanie, żabce, netto, tesco , carefurze, paliwo (grani ena czas szukam paragonu) (wyskrapować sklepy, stacje w okolicy)
+- komunkacja miejska miedzy <naszym fałszywym miejscem> a placówką baku - pozbierać zdjęcia z okolicy, jakiś lokalne wiadmośći typu na ulicy x w mieście Y była stłuczka, albo sklep budują, remontują ulicę jakby na serio się tam mieszkało
+- gwara, zależnie od wylosowanego regionu wtrącić słowka z gwary co dodatkowo potwierdzi mockowaną regionalność
 
 ### https://youtu.be/dcwQQyF1KNk?t=1663 Scams call funnel
+
+#### stresowanie scamera
+- coś przerywa oddzwonę do Pana/Pan <imie scamera> za chwilę
+- bateria mi pada
+  -nie słyszę <imie scamera> bo sąsiad remontuje, jest głośno na ulicy, stłuczka, ludzie wychodzą z autobusu
+  - <imie scamera> ważne wymienie, wrażenie że jest ot dla nas blższa osoba, że jesteśmy gotowi zrobić więcej i ogólnie zwracanie sę ciągłe do kogoś osobowo buduje relację, że człowiek jest w stanie łatwiej się zgodzić na prośby/rządania
+- przepraszam mam drugi telefon na linii <nr innego scamu z bazy albo banku> 
+  - właśne dostałam sms od <numer scamera o którym wiadomo co robi> z ofertą fotowoltaiki, albo coś nnego z bazy
+  - muszę zrobić <coś głupiego jakby spełniać rządanie innego scamera> i idę gdzieś tam coś zrobić
+  - jak będzie pouczać o bezpieczeństwie, to powiedziec że mój partner, rodzic, przyjacel, kolega jest w np polcj  że <scamer> jest tak mądry, że mmy fgo już przekazujemy połączenie na lini (sam się powinien rozłączyć)
 
 ### analiza sentymentu, ocena sentymentu, zadowolenie na podstawie koemntarzy, analiza wydźwięku, klasyfikacja, uczenie maszynowe, przetwarzanie języka naturalnego.
 
