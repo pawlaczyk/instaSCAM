@@ -4,6 +4,8 @@
 
 # TODO:
 
+### https://youtu.be/dcwQQyF1KNk?t=1663 Scams call funnel
+
 ### analiza sentymentu, ocena sentymentu, zadowolenie na podstawie koemntarzy, analiza wydźwięku, klasyfikacja, uczenie maszynowe, przetwarzanie języka naturalnego.
 
 - przeanalizować komentarze ze scrapowanych stron, nie brac tylko oceń numerycznych
