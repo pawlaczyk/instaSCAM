@@ -112,6 +112,11 @@ może sobie doczytać jakąś psychologię społeczną i będę umiała nazwać 
 - https://www.youtube.com/watch?v=RpwQObHEOjI
 - https://www.youtube.com/watch?v=iD-D78Rhqnw
 
+### linki zagranicznych organizacji
+- https://www.ftc.gov/
+- https://apps.apple.com/us/app/nomorobo-robocall-blocking/id1134727588
+- https://www.aarp.org/
+
 ### Jeśli do kogoś też wydzwaniają, to zaparszam do "Issues" albo "Pull requests", nowo powstałe numery często nie są oznaczane jako "spam"
 
 ### Jak ktoś ma pomysl to tak samo "Issues" albo "Pull requests"
